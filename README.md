@@ -1,4 +1,4 @@
-#Equity-Option-Pricing-and-Greeks-Calculation
+# Equity-Option-Pricing-and-Greeks-Calculation
 This project provides implementations for pricing equity options and calculating their Greeks (Delta and Gamma) using the Black-Scholes-Merton (BSM) model. Additionally, it includes functionality to price forward contracts on equities. The main objective is to model the financial instruments and use their properties for pricing and sensitivity analysis.
 
 ## Key Features
